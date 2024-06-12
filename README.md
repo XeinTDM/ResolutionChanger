@@ -49,4 +49,5 @@ git clone https://github.com/XeinTDM/ResolutionChanger.git
 
 ### License
 [![License: Unlicense](https://img.shields.io/badge/license-Unlicense-blue.svg)](http://unlicense.org/)
+
 Feel free to use, modify, and distribute the code as you wish.
